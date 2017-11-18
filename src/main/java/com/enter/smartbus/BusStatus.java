@@ -1,4 +1,4 @@
-package com.bigdata2017.smartbus;
+package com.enter.smartbus;
 
 import java.util.HashMap;
 import java.util.Map;
